@@ -1,5 +1,5 @@
 GPS:
-https://www.aliexpress.us/item/3256810395464495.html?spm=a2g0o.productlist.main.2.3fbc4464CS5rfW&algo_pvid=99e8f409-be1e-402a-8471-0dc47d797e14&algo_exp_id=99e8f409-be1e-402a-8471-0dc47d797e14-1&pdp_ext_f=%7B%22order%22%3A%22200%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!12.44!0.99!!!83.78!6.69!%4021030a6217813181637963797e5014!12000052885686864!sea!US!0!ABX!1!0!n_tag%3A-29910%3Bd%3A3a4c5093%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262942&curPageLogUid=R4MvkheocAzd&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010581779247%7C_p_origin_prod%3A
+https://www.amazon.com/HiLetgo-GY-NEO6MV2-Controller-Ceramic-Antenna/dp/B01D1D0F5M
 
 Hall Effect sensor (for flow speed)
 https://www.aliexpress.us/item/3256808273062702.html?spm=a2g0o.productlist.main.2.28b95ea65Eedbf&algo_pvid=c5b4429e-7c08-481b-8441-a9c903ec156f&algo_exp_id=c5b4429e-7c08-481b-8441-a9c903ec156f-1&pdp_ext_f=%7B%22order%22%3A%22445%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!3.24!0.99!!!3.24!0.99!%4021030a4b17813189021478670e07bf!12000045225679024!sea!US!0!ABX!1!0!n_tag%3A-29910%3Bd%3A3a4c5093%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262963&curPageLogUid=dLRSSyNQZlGG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008459377454%7C_p_origin_prod%3A
@@ -16,7 +16,7 @@ Water Depth Sensor:
 https://www.aliexpress.us/item/3256809434459171.html?spm=a2g0o.productlist.main.6.637f7fd7fadsUf&algo_pvid=3b934d2c-163c-40a5-839f-8405ff229295&algo_exp_id=3b934d2c-163c-40a5-839f-8405ff229295-5&pdp_ext_f=%7B%22order%22%3A%22208%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.94%210.99%21%21%2140.00%216.67%21%402101e8f317814067703902421ed2e6%2112000049658676993%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A21d99260%3Bm03_new_user%3A-29895%3BpisId%3A5000000207260799&curPageLogUid=wnE0yvQv0ZN5&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009620773923%7C_p_origin_prod%3A
 
 ESP-32 S3:
-https://www.aliexpress.us/item/3256809337382729.html?spm=a2g0o.productlist.main.2.1c8c5b8bdhsyAK&algo_pvid=0c835c5d-4607-4c91-b1c8-04903ecc3992&algo_exp_id=0c835c5d-4607-4c91-b1c8-04903ecc3992-1&pdp_ext_f=%7B%22order%22%3A%221476%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.84%210.99%21%21%2125.85%216.66%21%402103119c17813214134332783e4316%2112000049707307395%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7da89382%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262942&curPageLogUid=LNt26JoI5wI6&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009523697481%7C_p_origin_prod%3A
+https://www.amazon.com/ESP32-S3-DevKitC-1-Development-Dual-Core-Bluetooth/dp/B0GVSHT2Q2?crid=3GS0TOWZMMETY&dib=eyJ2IjoiMSJ9.BKEwrD-bCKBqkHkYLQeo2ann0lEr3Z3WqeYAHjq8emds6ZivkQR0R0wnqex0YyrbmSbbpYENEpbarCHnZ-OOCD8jw2RVF4eEyUlUJvqlOfODU2j8hkC4NWkVeMJ2gN8Zl_B9S82RtkSY3GvY_h2g9qCS4cYzw5QjM70ehsIAARHTgw2UVZiiBO5tlt4S5IDKjYBnhOhe4fgYHgjQIOeEkU92z_cyC-KKgPYLQ2B3gZ9GtL3yTE8OARpBEYJMLiDGy5D9dhPoee7KAmfmw9Z4Sb7NDLueyagF-YmXXQ33wWM.2yKVPOrQfTALVl0NeDRCWBk_eCeIFLkxxg-DYMS25rI&dib_tag=se&keywords=esp32%2Bs3%2B1u&qid=1781550905&s=electronics&sprefix=esp32%2Bs3%2B1u%2Celectronics%2C151&sr=1-10&th=1
 
 Low KV Motor:
 https://www.underwaterthruster.com/products/3750-underwater-waterproof-and-corrosion-proof-brushless-motors-for-underwater-robots-and-rov-motors-for-unmanned-boats?variant=42650338623716&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooVWRCoBgpCvBpqEkyECczLiy7adne2BIOrknwfyK4Rb2NLbHkX8Z0
@@ -57,7 +57,7 @@ Power switch:
 https://www.aliexpress.us/item/3256809415854105.html?spm=a2g0o.productlist.main.35.7d36748f0dcP4s&algo_pvid=7a09189b-331f-4e40-92fc-17dc9f989ef8&algo_exp_id=7a09189b-331f-4e40-92fc-17dc9f989ef8-34&pdp_ext_f=%7B%22order%22%3A%227337%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.03%210.99%21%21%211.03%210.99%21%4021033d1217814045078612178ee96a%2112000049599771008%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af5916fa9%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262963&curPageLogUid=XTqRyCQitETI&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009602168857%7C_p_origin_prod%3A
 
 Fuses:
-https://www.aliexpress.us/item/3256811467642503.html?spm=a2g0o.productlist.main.11.612e7356SyW3if&algo_pvid=dca3351b-a0df-414b-8de4-0c1fe5f8e0dd&algo_exp_id=dca3351b-a0df-414b-8de4-0c1fe5f8e0dd-10&pdp_ext_f=%7B%22order%22%3A%22994%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005011653957255%22%2C%22orig_item_id%22%3A%221005010140465657%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.13%212.07%21%21%2134.54%2113.90%21%40210311c217814046031728975e3ea8%2112000056160034416%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af5916fa9%3Bm03_new_user%3A-29895%3BpisId%3A5000000208023469&curPageLogUid=Jo2uzkWnbQDC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011653957255%7C_p_origin_prod%3A1005010140465657
+https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.7.248917bbkMVvoG&productIds=1005005766066678%3A12000034276200393&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005766066678%7C_p_origin_prod%3A&pvid=5d4e6b2f-4ef9-4d8f-b138-f77c91182ef2
 
 Capacitors:
 https://www.amazon.com/ALLECIN-Electrolytic-Capacitor-Assortment-Kit/dp/B0C1VBXCQM?crid=1KH0YNECZF6CB&dib=eyJ2IjoiMSJ9.YFwrrAqezx1Vbz3vJAGKKtA5lCNj3rRLl3UI5I2oMQo8uv1FxIaQuStFp5NRD5upGXSWcussDpUXLNoUG84Mja7Ya-JLr9JRJnRVtqMWAJmHE3Mmg8eDpK8MBaH82f69ENd3LphhdqZTKK4GkTOnPDRHD4fcJd5m3OWmyj-UqbDmE08LtQrfTkgC4ZvVqX_n4kd28ctRaSS_jOW4IJQLlQZFC5rJ2uJYJFuBke8avWU.S2lBgG0yyAEK3oJbMeuenfrdTXbAKct5thRF6ttc8Fs&dib_tag=se&keywords=capacitor+kit&qid=1781404688&sprefix=capacitor+kit%2Caps%2C164&sr=8-3
@@ -67,4 +67,10 @@ https://www.aliexpress.us/item/3256806146485912.html?spm=a2g0o.productlist.main.
 
 Servo connector:
 https://www.amazon.com/Female-Connector-Crimping-Compatible-Spektrum/dp/B0BGX7157Y/ref=sr_1_7?crid=DMTGJ1VKEWL0&dib=eyJ2IjoiMSJ9.PiOJteaVDRUNIUnd1YLNm4KLYP0_hXOejWJ1wBfrV62Qp7AqfEslVh5mUgiN-pskuPBiE8GKZ5O7YUlD_ZR8SkTdM0xfLtzhsWTcRQsDnMQsCwzX8eX-mHDaSagWREnhZssGAxy5m-LC3Su45RdbXnEDmahCMUYnUplI-S39VQJuugPx1lVz99Tor8hkO4ba6nm0mIjUmqzmpWoHFAWos206GASJ2J2ZQTW45GEVumtWVxPKVf9ovnVM_XUfp0AEYlIx2CcT0IIlg3JWlk4y4EDO7TsKRUuicsYX3caLr1g.XsNqtur9fzet3bb3aGVw1ztzbzEImVmS9wzLDMtb4VY&dib_tag=se&keywords=servo+connector+female&qid=1781406262&sprefix=servo+connector+female%2Caps%2C143&sr=8-7
+
+NeoPixel:
+https://www.aliexpress.us/item/2251801850504415.html
+
+GPS Antenna Extension Cable:
+https://www.amazon.com/POBADY-Female-1-37mm-Low-Loss-Extension/dp/B0C8M8PCJ2
 
