@@ -73,7 +73,7 @@ The projects code will be written in PlatformIO and feature a web-based interfac
 | Ballast Air Motor | 1 | $8.54 | https://www.amazon.com/Jadeshay-Micro-Vacuum-Electric-PumpingBooster/dp/B089ZRYZV8 |
 | M3 Screws and Heat Set Inserts | 1 | $15.99 | https://www.amazon.com/Threaded-Inserts-Plastic-3mm-10mm-Pringting/dp/B0GYRQG7F2 |
 | PETG | 1 | $46.99 | https://www.amazon.com/SUNLU-PETG-Filament-1-75mm-Printer/dp/B0D1KBQ9VL |
-| 4in PVC Pipe | 1 | $38.46 | https://www.homedepot.com/p/Charlotte-Pipe-4-in-x-10-ft-PVC-Schedule-40-DWV-Pipe-PVC074000600/100348477 |
+| 4in PVC Pipe | 1 | $30.81 | https://www.homedepot.com/p/Charlotte-Pipe-4-in-x-10-ft-PVC-Schedule-40-DWV-Pipe-PVC074000600/100348477 |
 | 3in PVC Pipe | 1 | $21.81 | https://www.homedepot.com/p/Charlotte-Pipe-3-in-x-10-ft-PVC-Schedule-40-Foam-Core-DWV-Pipe-PVC-04300-0600/100348479 |
 | Silicone Tubing | 1 | $11.99 | https://www.amazon.com/Hooshing-Silicone-Flexible-Winemaking-Transfer/dp/B08PTXZ51Q |
 | Hose Clamps (Tubing) | 1 | $5.19 | https://www.amazon.com/Jersvimc-12pcs-Stainless-Plated-Adjustable/dp/B0BZSKH624 |
