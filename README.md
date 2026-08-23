@@ -5,6 +5,8 @@
 
 The main goal of the project was to create a full autonomous underwater vehicle capable of traveling below the surface with no signal. Water completely blocks out both GPS and WIFI, so we will have no connection at all once it submerges below the surface. Thus, the submarine can use gps to navigate above water to various waypoints and use dead-reckoning when navigating underwater.
 
+https://cad.onshape.com/documents/526140a6d93d9e122471a075/w/3eb4851c7e5a9558da121771/e/749db0c17ff4b1f534fcc59e?renderMode=0&uiState=6a8b5b011ef27934121fa507
+
 ## Motivation
 Both of us (Shaan and Dimitri) have had an interest in amphibious vehicles capable of transferring between water, land, and air. This is one of our first steps in testing underwater systems and learning more about process.
 
