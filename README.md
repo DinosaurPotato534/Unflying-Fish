@@ -1,4 +1,26 @@
+
 # Unflying Fish
+
+![sub](assets/cad1.png)
+
+The main goal of the project was to create a full autonomous underwater vehicle capable of traveling below the surface with no signal. Water completely blocks out both GPS and WIFI, so we will have no connection at all once it submerges below the surface. Thus, the submarine can use gps to navigate above water to various waypoints and use dead-reckoning when navigating underwater.
+
+## Design
+
+### Ribbed Hull
+For all the 3D printed parts be decided to go with a modular ribbed hull design as it was significantly more efficient in filament. It also greatly reduced support material and made many parts much more printable. The hull works by having a mostly thin outer shell (1.4mm) with several 4mm ribs running across. Then, rings would be nested in these ribs to further support both the walls and anything inside.
+
+![ribs](assets/cad4.png)
+
+### Ballast System
+One of the more complicated aspects of the sub was the ballast system. Many other submarines use compressed air to fill a tank, but that requires a pump and only functions a few times before air runs out. Instead, we decided to use a dual approach with a lead screw driving two syringes for precise ballast control. Then, once at the surface and air-pump will fill up plastic bags to push the sub fully out of the water.
+
+![ballast](assets/cad3.png)
+
+### Antenna Tower
+The antenna tower is relatively simple, housing both the GPS and ESP-32 Wifi antenna for signal. It also has a window to house LEDs to make the sub more visible when it is barely emerged from the surface.
+
+![antennas](assets/cad5.png)
 
 ## Electronics
 The project features a custom control board with all sensors soldered, with the exception of a few modules which we opted to be breakouts to limit corruption of signal. The board is optimized to limit noise, and includes a ground pour. The board was fully designed in KiCad within the size constraints laid out by CAD.
