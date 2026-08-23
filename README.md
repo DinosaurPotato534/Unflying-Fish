@@ -1,4 +1,3 @@
-
 # Unflying Fish
 
 ![sub](assets/cad1.png)
@@ -53,6 +52,17 @@ The projects code will be written in PlatformIO and feature a web-based interfac
 ## Bill Of Materials
 | Item | Quantity | Cost (USD) | Purchase Link |
 |---|---:|---:|---|
+| GPS | 1 | $8.99 | https://www.amazon.com/HiLetgo-GY-NEO6MV2-Controller-Ceramic-Antenna/dp/B01D1D0F5M |
+| Hall Effect Sensor | 1 | $3.28 | https://www.aliexpress.us/item/3256808273062702.html |
+| Magnets | 1 | $6.45 | https://www.aliexpress.us/item/3256810253099525.html |
+| IMU | 1 | $4.84 | https://www.digikey.com/en/products/detail/stmicroelectronics/LSM6DSOTR/9586579 |
+| Magnometer | 1 | $5.95 | https://www.adafruit.com/product/5579 |
+| Pressure Sensor | 1 | $6.18 | https://www.aliexpress.us/item/3256809434459171.html |
+| ESP32-S3 | 1 | $13.99 | https://www.amazon.com/ESP32-S3-DevKitC-1-Development-Dual-Core-Bluetooth/dp/B0GVSHT2Q2 |
+| Main Motor | 1 | $29.10 | https://www.underwaterthruster.com/products/apisqueen-brushless-waterproof-motor-2828-12v-16v-500kv-for-underwater-thruster-boat-rov |
+| ESC | 1 | $17.64 | https://www.underwaterthruster.com/products/apisqueen-12-24v-3-6s-lipo-45a-bi-directional-esc-to-control-brushless-motors-propellers-in-forward-or-reverse-rotation |
+| 4S LIPO | 1 | $26.99 | https://www.amazon.com/OVONIC-Battery-2200mAh-Connector-Quadcopter/dp/B0D8SF1C9K |
+| Buck Converter | 1 | $11.20 | https://www.aliexpress.us/item/3256808194722756.html |
 | LIPO Converter | 1 | $6.58 | https://www.aliexpress.us/item/3256810183858580.html |
 | Wires | 1 | $11.56 | https://www.aliexpress.us/item/3256805055649344.html |
 | Resistors | 1 | $6.49 | https://www.amazon.com/Resistor-Resistors-Assortment-Breadboard-Electronics/dp/B0F4P352BB |
@@ -90,6 +100,7 @@ The projects code will be written in PlatformIO and feature a web-based interfac
 | 3in PVC Pipe O-Ring | 1 | $6.99 | https://www.amazon.com/uxcell-Nitrile-Automotive-Plumbing-Durometer/dp/B0FNMJNDVR |
 | Lead Screws | 1 | $10.04 | https://www.aliexpress.us/item/3256805576723890.html |
 | Galvanized Wire | 1 | $7.28 | https://www.amazon.com/Hillman-Galvanized-Solid-Utility-Silver/dp/B00FX982K8 |
+| PCB | 1 | $9.00 | Shaan's Cart |
 ---
 | Category | Cost (USD) |
 |---|---:|
@@ -99,6 +110,7 @@ The projects code will be written in PlatformIO and feature a web-based interfac
 | Adafruit Shipping | $6.52 |
 | Home Depot Shipping | $0.00 |
 | Amazon Shipping | $0.00 |
-| **Total (pre-shipping)** | **$538.75** |
-| **Total (post-shipping)** | **$580.50** |
+| JLC Shipping | $8.59 |
+| **Total (pre-shipping)** | **$540.10** |
+| **Total (post-shipping)** | **$590.44** |
 ---
