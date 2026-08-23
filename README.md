@@ -5,6 +5,9 @@
 
 The main goal of the project was to create a full autonomous underwater vehicle capable of traveling below the surface with no signal. Water completely blocks out both GPS and WIFI, so we will have no connection at all once it submerges below the surface. Thus, the submarine can use gps to navigate above water to various waypoints and use dead-reckoning when navigating underwater.
 
+## Motivation
+Both of us (Shaan and Dimitri) have had an interest in amphibious vehicles capable of transferring between water, land, and air. This is one of our first steps in testing underwater systems and learning more about process.
+
 ## Design
 
 ### Ribbed Hull
@@ -21,6 +24,18 @@ One of the more complicated aspects of the sub was the ballast system. Many othe
 The antenna tower is relatively simple, housing both the GPS and ESP-32 Wifi antenna for signal. It also has a window to house LEDs to make the sub more visible when it is barely emerged from the surface.
 
 ![antennas](assets/cad5.png)
+
+## Assembling
+The main hull consists of a 4in pvc pipe, which everything else will be connected to. Antenna tower, for example, will be epoxied and bolted into the top surface of the pipe, with holes drilled through for wires.
+
+The 3d printed nose will be assembled in multiple smaller parts first. Each quarter will be printed with vertically. Then, the flat ring ribs will be slid down the hull until it reaches its desired spot and epoxied into place. The tail will also be assembled in a similar way.
+
+The electronics bay is a pvc pipe housing all the main electronics, such the battery and flight controller, and will removable from the nose. The nose compartment, which was seen earlier and can be opened, will be close using hose clamps
+
+The end caps for both electronic bays will be 3d printed, but filled with epoxy to seal them. An o-ring will be added on a notch to complete the seal.
+
+The ballast system will be assembled by putting the syringes into custom mounts in the pipe. Then the syringe head will be connected to the lead screw, which is driven by a small dc motor.
+The servos controlling the tail flaps will also be in this compartment. They will be sealed by rubber bellows and have push/pull rods leading to the back.
 
 ## Electronics
 The project features a custom control board with all sensors soldered, with the exception of a few modules which we opted to be breakouts to limit corruption of signal. The board is optimized to limit noise, and includes a ground pour. The board was fully designed in KiCad within the size constraints laid out by CAD.
