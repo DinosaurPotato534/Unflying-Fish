@@ -5,6 +5,8 @@
 
 The main goal of the project was to create a full autonomous underwater vehicle capable of traveling below the surface with no signal. Water completely blocks out both GPS and WIFI, so we will have no connection at all once it submerges below the surface. Thus, the submarine can use gps to navigate above water to various waypoints and use dead-reckoning when navigating underwater.
 
+https://cad.onshape.com/documents/526140a6d93d9e122471a075/w/3eb4851c7e5a9558da121771/e/749db0c17ff4b1f534fcc59e?renderMode=0&uiState=6a8b5b011ef27934121fa507
+
 ## Motivation
 Both of us (Shaan and Dimitri) have had an interest in amphibious vehicles capable of transferring between water, land, and air. This is one of our first steps in testing underwater systems and learning more about process.
 
@@ -71,7 +73,7 @@ The projects code will be written in PlatformIO and feature a web-based interfac
 | Ballast Air Motor | 1 | $8.54 | https://www.amazon.com/Jadeshay-Micro-Vacuum-Electric-PumpingBooster/dp/B089ZRYZV8 |
 | M3 Screws and Heat Set Inserts | 1 | $15.99 | https://www.amazon.com/Threaded-Inserts-Plastic-3mm-10mm-Pringting/dp/B0GYRQG7F2 |
 | PETG | 1 | $46.99 | https://www.amazon.com/SUNLU-PETG-Filament-1-75mm-Printer/dp/B0D1KBQ9VL |
-| 4in PVC Pipe | 1 | $38.46 | https://www.homedepot.com/p/Charlotte-Pipe-4-in-x-10-ft-PVC-Schedule-40-DWV-Pipe-PVC074000600/100348477 |
+| 4in PVC Pipe | 1 | $30.81 | https://www.homedepot.com/p/Charlotte-Pipe-4-in-x-10-ft-PVC-Schedule-40-DWV-Pipe-PVC074000600/100348477 |
 | 3in PVC Pipe | 1 | $21.81 | https://www.homedepot.com/p/Charlotte-Pipe-3-in-x-10-ft-PVC-Schedule-40-Foam-Core-DWV-Pipe-PVC-04300-0600/100348479 |
 | Silicone Tubing | 1 | $11.99 | https://www.amazon.com/Hooshing-Silicone-Flexible-Winemaking-Transfer/dp/B08PTXZ51Q |
 | Hose Clamps (Tubing) | 1 | $5.19 | https://www.amazon.com/Jersvimc-12pcs-Stainless-Plated-Adjustable/dp/B0BZSKH624 |
